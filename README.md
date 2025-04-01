@@ -2,7 +2,8 @@
 
 A React-based web application that allows users to browse profiles and view their locations on an interactive map. Built with Vite, Material-UI, and Mapbox GL JS.
 
-![App Screenshot](./public/screenshot.png) <!-- Add your screenshot if available -->
+![Screenshot 2025-04-02 035621](https://github.com/user-attachments/assets/fba75bd6-5aaf-4d42-9fd3-97e427eca19a)
+
 
 ## Features
 
@@ -26,5 +27,6 @@ A React-based web application that allows users to browse profiles and view thei
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/profile-explorer.git
-   cd profile-explorer
+   git clone https://github.com/omkumars31/profile-explorer.git
+   cd demo-frontend
+
