@@ -27,6 +27,6 @@ A React-based web application that allows users to browse profiles and view thei
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/omkumars31/profile-explorer.git
+   git clone https://github.com/omkumars31/Profile-Explorer-Web-Application.git
    cd demo-frontend
 
